@@ -1,0 +1,3 @@
+C:/programming/post-query/build/CMakeFiles/post.dir
+C:/programming/post-query/build/CMakeFiles/ALL_BUILD.dir
+C:/programming/post-query/build/CMakeFiles/ZERO_CHECK.dir

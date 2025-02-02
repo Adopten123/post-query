@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\programming\post-query\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\programming\post-query\build\bin\post.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\programming\post-query\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

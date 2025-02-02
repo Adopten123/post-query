@@ -1,0 +1,10 @@
+^C:\PROGRAMMING\POST-QUERY\BUILD\CMAKEFILES\633A4BF50B77594EE23EFE975BFE7BD6\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/programming/post-query -BC:/programming/post-query/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/programming/post-query/build/post.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
